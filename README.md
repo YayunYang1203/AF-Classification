@@ -1,4 +1,4 @@
-# AF Detection with Bidirectional LSTM and Attention Mechanism
+# AF Classification with Bidirectional LSTM and Attention Mechanism
 
 This repository provides a deep learning-based approach for detecting Atrial Fibrillation (AF) using a bidirectional LSTM model with an optional Attention mechanism. The model leverages Keras and TensorFlow to train on a provided dataset, achieving accurate results in AF classification.
 
